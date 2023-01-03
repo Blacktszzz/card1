@@ -1,0 +1,29 @@
+body{
+    background-image:url(wallpaper-pc1-scaled-1.webp)
+}
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(0, 255, 200);
+}
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(3, 255, 255);
+}
+ol{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 166, 235);
+}
+li{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 235, 252);
+}
